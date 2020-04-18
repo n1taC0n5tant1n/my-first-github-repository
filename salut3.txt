@@ -1,0 +1,1 @@
+salut din fisierul salut3.txt
