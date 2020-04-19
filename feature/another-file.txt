@@ -1,3 +1,4 @@
 Another file created in the feature-1 branch
 
 Tis file was locally modified
+Another file was changed remotely
